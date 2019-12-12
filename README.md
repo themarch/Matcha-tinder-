@@ -40,6 +40,4 @@
 	* notifications
 		* deux utilisateurs se sont matchés, nouveau message...
 
-Pour mettre en route :
- Lancer docker
  
