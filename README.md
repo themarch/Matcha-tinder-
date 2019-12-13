@@ -23,7 +23,7 @@
 		* confirmation de la création du compte par mail
 		* changer le mot de passe, le nom d'utilisateur, l'âge ou le nom et prénom.
 	* profil
-		* informations : biographie, score de populartié, âge, orientatation sexuelle, photo de profil, localisation, tags...
+		* informations : biographie, score de populartié, âge, orientation sexuelle, photo de profil, localisation, tags...
 		* pouvoir consulter les utilisateurs qui ont likes / visiter son profil ou les utilisateurs qui ont étaient bloqués
 		* pouvoir editer toutes informations du profil (ajouter / supprimer des photos, changer la localisation, les tags...)
 		* pouvoir like le profil des autres utilisateurs et voir s'ils sont en ligne
